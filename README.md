@@ -2,6 +2,10 @@
 # Text to Binary and Binary to Text Converter Project In Sketchware Pro
 
 
+![Logo](https://i.ibb.co/MVx1fYd/IMG-20240731-162831-043.jpg)
+
+## YouTube Video
+https://youtu.be/-PL4W0gbQh4
 
 ## Tutorial/Tips
 • Enter text to convert your text to binary code.
