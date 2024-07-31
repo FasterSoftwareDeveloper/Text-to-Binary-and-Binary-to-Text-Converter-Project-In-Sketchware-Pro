@@ -21,3 +21,8 @@ https://youtu.be/-PL4W0gbQh4
 • Then run Install when the run is finished. 
 
 Now enjoy the project!
+
+## Feedback
+
+If you have any feedback, please reach out to us at fastersoftwaredeveloper@gmail.com
+
